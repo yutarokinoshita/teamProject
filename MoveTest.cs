@@ -94,7 +94,7 @@ public class MoveTest : MonoBehaviour
 
     }
 
-    // 爆弾設置
+    // 爆弾設置(Zキー)
     public void Bom()
     {
         // プレイヤーと同じ座標にオブジェクトを設置
